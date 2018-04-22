@@ -19,7 +19,7 @@ mvn compile
 To compile and run tests also execute:
 
 ```
-mvn test
+mvn test b
 ```
 
 (That will be enough to know for the current exercises. If you are more interested, see [this](https://github.com/FTSRG/swsv-labs/wiki/1a-Build-tools) short guide about Maven.)
